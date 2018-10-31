@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Scientific Games Question\Scientific Games Question\bin\Debug\Scientific Games Question.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Scientific Games Question\Scientific Games Question\obj\Debug\Scientific Games Question.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Scientific Games Question\Scientific Games Question\bin\Debug\Scientific Games Question.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Scientific Games Question\Scientific Games Question\bin\Debug\Scientific Games Question.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Scientific Games Question\Scientific Games Question\obj\Debug\Scientific Games Question.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Scientific Games Question\Scientific Games Question\obj\Debug\Scientific Games Question.pdb
